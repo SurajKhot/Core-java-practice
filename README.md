@@ -1,3 +1,3 @@
 # core java practice
 
-this repository consists core java programs.
+This repository consists core java programs.
