@@ -1,0 +1,1 @@
+this is file to demo of exp 17.for copying the contents of another file and counting the number of line in it.
