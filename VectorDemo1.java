@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.util.Enumeration;
 
+
 class VectorDemo1
 {
 	public static void main(String args[])throws Exception
